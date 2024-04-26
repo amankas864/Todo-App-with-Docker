@@ -14,11 +14,12 @@ This is a simple Todo application built with React. It allows users to add, remo
 <br>
 
 This command is responsible for building a Docker image.
+
 <br>
-<br>
+
 ### `docker run -d -p 3000:3000 rAPP`
 <br>
 
 This command is responsible for running the Docker image on the specified port.
-### localhost:3000
+### http://localhost:3000
 
